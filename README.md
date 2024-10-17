@@ -28,7 +28,7 @@ If Ruby is not installed, follow the instructions [here](https://www.ruby-lang.o
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/yourusername/boring-but-big-generator.git
+    git clone https://github.com/nicolasleander/boring-but-big-generator.git
     cd boring-but-big-generator
     ```
 
